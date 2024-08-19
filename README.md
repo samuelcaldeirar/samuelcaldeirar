@@ -14,6 +14,9 @@
 
 </div>
 
+<br>
+<br>
+<br>
 
 <div align="center">
 <a href="https://www.instagram.com/samuelcaldeirar" target="_blank" rel="noopener noreferrer">
@@ -30,6 +33,9 @@
 
 </div>
 
+<br>
+<br>
+<br>
 
 <div align="center">
 
