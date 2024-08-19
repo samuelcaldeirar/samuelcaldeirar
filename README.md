@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<a href="https://www.instagram.com/samuelcaldeirar" target=_blank>
+<a href="https://www.instagram.com/samuelcaldeirar" target="_blank" rel="noopener noreferrer">
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/12f3ce4a-ee33-4a89-a253-50616d84ab3c">
 </a>
 
@@ -24,7 +24,7 @@
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/6b7b28b0-48d5-47e2-b86d-ab1889ec189e">
 </a>
 
-<a href="https://www.instagram.com/samuelcaldeirar/" target="_blank">
+<a href="www.linkedin.com/in/samuel-caldeira-42254a30b" target="_blank" rel="noopener noreferrer">
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/c4867618-909d-4ae7-b73f-9e35de1a9fb3">
 </a>
 
