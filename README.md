@@ -78,3 +78,8 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2500&pause=1000&color=FF7E5F&center=true&vCenter=true&width=1000&lines=Thanks+for+reading.;Come+back+soon.)](https://git.io/typing-svg)
+
+<br>
+<br>
+
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/d2f747cb-55cc-4857-a320-e1bad9771ff5">
