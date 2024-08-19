@@ -43,6 +43,9 @@
 
 </div>
 
+<br>
+<br>
+
 ## Main Skills
 
 <div align="left"> 
