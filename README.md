@@ -29,3 +29,52 @@
 </a>
 
 </div>
+
+
+<div align="center">
+
+![samuelcaldeirar](https://github.com/user-attachments/assets/53fd7c74-65b2-4338-9366-02295414f570)
+
+</div>
+
+## Main Skills
+
+<div align="left"> 
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/29c1aa34-d004-4e16-9d4d-19218597724b">
+
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/0a9bdd5d-6a55-4360-a8a1-690974556df4">
+
+<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/a140dc94-88a6-4b25-9f70-964751c394e7">
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+
+<h2 align="left"> Studying in this moment: </h2>
+
+
+<div align="left"> 
+
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/66595d4f-1bdd-419f-bb5a-85e53ecd96fb">
+
+</div>
+
+
+
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=2500&pause=1000&color=FF7E5F&center=true&vCenter=true&width=1000&lines=Thanks+for+reading.;Come+back+soon.)](https://git.io/typing-svg)
