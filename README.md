@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<a href="https://www.instagram.com/samuelcaldeirar" target="_blank">
+<a href="https://www.instagram.com/samuelcaldeirar" target=_blank>
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/12f3ce4a-ee33-4a89-a253-50616d84ab3c">
 </a>
 
