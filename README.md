@@ -24,7 +24,7 @@
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/6b7b28b0-48d5-47e2-b86d-ab1889ec189e">
 </a>
 
-<a href="www.linkedin.com/in/samuel-caldeira-42254a30b" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/samuel-caldeirar" target="_blank" rel="noopener noreferrer">
 <img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/c4867618-909d-4ae7-b73f-9e35de1a9fb3">
 </a>
 
